@@ -2,7 +2,7 @@
 
 #include <fftw3.h>
 #include <stdlib.h>
-#define NUM_POINTS 10000000
+#define NUM_POINTS 64
 
 
 /* Never mind this bit */
